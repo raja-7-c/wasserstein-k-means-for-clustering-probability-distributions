@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Oct  1 07:57:17 2022
 
-@author: yubo0
-"""
 
 
 
